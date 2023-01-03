@@ -1,17 +1,13 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
 
-# EVMavericks Weekly Updates
+# Week #2 EVMavericks Update: Dec 26, 2022 - Jan 1, 2023
 
 Maintained by [696.eth](https://etherscan.io/address/696.eth):
 
 > I tried putting together some important, and not so, stuff while also trying to preserve some comfy feeling and not make everything public. I know the den channel can be viewed by anyone so I used most of the info from there while also giving you some inside scoop from other channels but not being too concrete cause I'm trying to respect the space and consent (that I havent asked for) of others and and wanting that comfy feeling of the degen chat to be preserved.
 
-| Skip to Week |   |
-|--------------|---|
-[Week #3 - Dec 26, 2022 - Jan 1, 2023](#dec-26-2022---jan-1-2023)|
-[Week #2 - Dec 19, 2022 - Dec 25, 2022](#dec-19-2022---dec-25-2022)|
-[Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks.netlify.app)|
+[Homepage](https://evmavericks.netlify.app)
 
 
 ## Dec 26, 2022 - Jan 1, 2023
