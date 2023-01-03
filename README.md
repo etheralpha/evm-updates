@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
 
-# TEST: EVMavericks Weekly Updates
+# Week #1 EVMavericks Update: Dec 11, 2022 - Dec 18, 2022
 
 Maintained by [696.eth](https://etherscan.io/address/696.eth):
 
@@ -9,7 +9,6 @@ Maintained by [696.eth](https://etherscan.io/address/696.eth):
 
 [Homepage](https://evmavericks.netlify.app)
 
-## Dec 11, 2022 - Dec 18, 2022
 
 [Twitter Thread](https://twitter.com/696_eth/status/1605022945989926912) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/zpjll8/comment/j0wvv6h/)
 
