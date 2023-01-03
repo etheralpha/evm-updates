@@ -10,8 +10,6 @@ Maintained by [696.eth](https://etherscan.io/address/696.eth):
 [Homepage](https://evmavericks.netlify.app)
 
 
-## Dec 26, 2022 - Jan 1, 2023
-
 [Twitter Thread](https://twitter.com/696_eth/status/1609997942857007104) | [Reddit Post](https://www.reddit.com/r/ethfinance/comments/1014ypw/comment/j2o5ynz/) | [Youtube Overview](https://youtu.be/4YxDoek-rOs)
 
 ![](https://i.imgur.com/NUXXzgs.png)
