@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
 
-# EVMavericks Weekly Updates
+# TEST: EVMavericks Weekly Updates
 
 Maintained by [696.eth](https://etherscan.io/address/696.eth):
 
