@@ -20,7 +20,7 @@ Starting off with more Important Information 👇
 
 1. The-A-Word warns of the Dictum's Exchange rug: <https://twitter.com/OlimpioCrypto/status/1609183982821818369>
 1. JT, The-A-Word, 696 and everyone else who wants to join on Fridays at 11AM CST (9AM PST/12PM EST/6PM CET) in the discord for a weekly roundtable of doots for about 30-45ish minutes
-1. angelbattles announces that their halo token is now live at <www.angelbattles.com>
+1. angelbattles announces that their halo token is now live at <https://www.angelbattles.com/>
 1. YiΞLdDaddy suggests more educational resources: <https://www.youtube.com/@empirepod/videos>
 1. austonst shares this ZK source: <https://steelperlot.notion.site/steelperlot/ZK-Zero-to-Hero-1157a665a4a249d9805aebd5efea6460>
 1. Luukie shares a job position: <https://sweatcoin.teamtailor.com/jobs/2273658-head-of-business-development>
