@@ -11,7 +11,7 @@ Maintained by [696.eth](https://etherscan.io/address/696.eth):
 |--------------|---|
 [Week #3 - Dec 26, 2022 - Jan 1, 2023](#dec-26-2022---jan-1-2023)|
 [Week #2 - Dec 19, 2022 - Dec 25, 2022](#dec-19-2022---dec-25-2022)|
-[Week #1 - Dec 11, 2022 - Dec 18, 2022](#dec-11-2022---dec-18-2022)|
+[Week #1 - Dec 11, 2022 - Dec 18, 2022](https://week1--evmavericks.netlify.app)|
 
 
 ## Dec 26, 2022 - Jan 1, 2023
